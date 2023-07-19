@@ -1,0 +1,29 @@
+form,
+label,
+select,
+textarea,
+input {
+  justify-content: center;
+  display: center;
+  align-items: center;
+  text-align: center;
+  width: 200px;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  text-align: center;
+}
+form {
+  padding-left: 45%;
+}
+button {
+  margin-top: 10px;
+}
+button:active {
+  background-color: black;
+  color: aliceblue;
+}
